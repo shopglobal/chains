@@ -3847,6 +3847,19 @@
   "faucets": [],
   "infoURL": "https://www.cicchain.net"
 }, {
+  "name": "AmStar Mainnet",
+  "chainId": 1388,
+  "shortName": "ASAR",
+  "networkId": 1388,
+  "nativeCurrency": {
+    "name": "SINSO",
+    "symbol": "SINSO",
+    "decimals": 18
+  },
+  "rpc": ["https://mainnet-rpc.amstarscan.com"],
+  "faucets": [],
+  "infoURL": "https://sinso.io"
+}, {
   "name": "Polygon zkEVM Testnet",
   "chainId": 1402,
   "shortName": "zkevmtest",
@@ -4379,6 +4392,32 @@
   "rpc": ["https://astrosat.origintrail.network", "wss://parachain-rpc.origin-trail.network"],
   "faucets": [],
   "infoURL": "https://parachain.origintrail.io"
+}, {
+  "name": "Stratos Testnet",
+  "chainId": 2047,
+  "shortName": "stos-testnet",
+  "networkId": 2047,
+  "nativeCurrency": {
+    "name": "STOS",
+    "symbol": "STOS",
+    "decimals": 18
+  },
+  "rpc": ["https://web3-testnet-rpc.thestratos.org"],
+  "faucets": [],
+  "infoURL": "https://www.thestratos.org"
+}, {
+  "name": "Stratos Mainnet",
+  "chainId": 2048,
+  "shortName": "stos-mainnet",
+  "networkId": 2048,
+  "nativeCurrency": {
+    "name": "STOS",
+    "symbol": "STOS",
+    "decimals": 18
+  },
+  "rpc": [],
+  "faucets": [],
+  "infoURL": "https://www.thestratos.org"
 }, {
   "name": "Quokkacoin Mainnet",
   "chainId": 2077,

@@ -143,6 +143,14 @@
     "format": "png"
   }]
 }, {
+  "name": "amstar",
+  "icons": [{
+    "url": "ipfs://Qmd4TMQdnYxaUZqnVddh5S37NGH72g2kkK38ccCEgdZz1C",
+    "width": 599,
+    "height": 563,
+    "format": "png"
+  }]
+}, {
   "name": "sardisTestnet",
   "icons": [{
     "url": "ipfs://QmdR9QJjQEh1mBnf2WbJfehverxiP5RDPWMtEECbDP2rc3",
@@ -671,6 +679,14 @@
     "format": "png"
   }]
 }, {
+  "name": "FastexChain",
+  "icons": [{
+    "url": "ipfs://QmaQMapSRYPbxU2ivtrovYX8YRW7S19hVTutN4NW55C7hx",
+    "width": 3001,
+    "height": 3001,
+    "format": "png"
+  }]
+}, {
   "name": "top",
   "icons": [{
     "url": "ipfs://QmYikaM849eZrL8pGNeVhEHVTKWpxdGMvCY5oFBfZ2ndhd",
@@ -876,14 +892,6 @@
     "url": "ipfs://QmWb1gthhbzkiLdgcP8ccZprGbJVjFcW8Rn4uJjrw4jd3B",
     "width": 200,
     "height": 200,
-    "format": "png"
-  }]
-}, {
-  "name": "FastexChain",
-  "icons": [{
-    "url": "ipfs://QmaQMapSRYPbxU2ivtrovYX8YRW7S19hVTutN4NW55C7hx",
-    "width": 3001,
-    "height": 3001,
     "format": "png"
   }]
 }, {
